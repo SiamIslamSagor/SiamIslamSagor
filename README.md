@@ -1,5 +1,7 @@
+<img src="https://i.ibb.co/q0z3Qxq/Brown-Modern-Designer-Linked-In-Banner.png" alt="" style="width:100%;">
+
 <h1 align="center">Hi 👋, I'm Siam</h1>
-<h3 align="center">A passionate frontend developer from Bangladesh</h3>
+<h3 align="left">A passionate frontend developer from Bangladesh</h3>
 
 - 📫 How to reach me **msiamislam12345@gmail.com**
 
