@@ -3,7 +3,8 @@
 <h1 align="center">Hi 👋, I'm Siam</h1>
 
 <h3 align="left">About me</h3>
-<p>I'm a MERN stack developer, I love writing code and learning new things. I want to become a senior developer in next 2-3 years.
+<p>I'm a MERN stack developer, I love writing code and learning new things. I want to become a senior developer in next 2-3 years.As a MERN stack developer, i possess expertise in MongoDB, Express.js, React.js, and Node.js—key technologies for building modern web applications. Your skill set includes designing robust server-side architectures, creating dynamic and interactive user interfaces, and working with NoSQL databases for efficient data storage. With a focus on full-stack development.
+
 </p>
 <h3 align="left">A passionate frontend developer from Bangladesh</h3>
 
