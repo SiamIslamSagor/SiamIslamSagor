@@ -8,11 +8,13 @@
 </p>
 <h3 align="left">A passionate frontend developer from Bangladesh</h3>
 
-- 📫 How to reach me **msiamislam12345@gmail.com**
+- 📫 How to reach me **mdsiamislamsagor@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="center">
-<a href="https://linkedin.com/in/m-siam-islam-6083692a4" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="m-siam-islam-6083692a4" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/m-siam-islam-6083692a4" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="m-siam-islam-6083692a4" height="35" width="40" /></a>
+<a href="https://web.facebook.com/pro.gamar.908" target="blank"><img align="center" src="https://w7.pngwing.com/pngs/561/460/png-transparent-fb-facebook-facebook-logo-social-media-icon.png" alt="m-siam-islam-6083692a4" height="35" width="40" /></a>
+<a href="https://web.facebook.com/pro.gamar.908" target="blank"><img align="center" src="https://w7.pngwing.com/pngs/398/444/png-transparent-instagram-thumbnail.png" alt="m-siam-islam-6083692a4" height="35" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
